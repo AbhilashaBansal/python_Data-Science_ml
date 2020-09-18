@@ -1,4 +1,4 @@
-# python_Data-Science_ml
+# python_d-s_ml
 (Some basic learning + projects in Python)
 
 Projects: 
