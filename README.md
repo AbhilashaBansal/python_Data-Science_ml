@@ -3,4 +3,5 @@
 
 Projects: 
 
-1 Face Recognition (using pre-trained model)
+- 1 Face Recognition (using pre-trained model)
+- 2 Image Compression with K-Means
